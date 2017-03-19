@@ -6,7 +6,7 @@ Il progetto consiste nel monitorare in remoto opere d'Arte attraverso l'utilizzo
 
 Un esempio concreto potrebbe essere un'infiltrazione all'interno del tetto di una chiesa. Essa potrebbe causare dei danneggiamenti più o meno gravi al patrimonio artistico di quest'ultima. I danni causati potrebbero non essere notati e aggraversi nel corso del tempo. Il nostro scopo è segnalare tempestivamente un'eventuale anomalia al fine di risolvere immediatamente il problema.
 
-## Specifiche
+## Specifiche tecniche
 
 ### Cosa dobbiamo misurare?
 
