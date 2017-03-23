@@ -8,6 +8,11 @@ Un esempio concreto potrebbe essere un'infiltrazione all'interno del tetto di un
 
 ## Specifiche tecniche
 
+### Strumentazione 
+
+ * Microcontrollore - Arduino
+ * Singleboard Computer - Lattepanda o Raspberry Pi
+
 ### Cosa dobbiamo misurare?
 
  * Temperatura - Range(0°C - 27°C)
